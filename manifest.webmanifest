@@ -1,0 +1,18 @@
+{
+  "name": "Pomofocus++ Study Timer",
+  "short_name": "Pomofocus++",
+  "description": "Offline Pomodoro study timer with tasks, stats, colorways, fonts, and Google Calendar export.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#14171f",
+  "theme_color": "#14171f",
+  "categories": ["productivity", "education", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
